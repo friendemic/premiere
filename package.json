@@ -1,5 +1,5 @@
 {
-  "name": "premiere",
+  "name": "@friendemic/premiere",
   "version": "0.2.6",
   "description": "Javascript ORM for consuming Restful APIs",
   "main": "build/index.js",
