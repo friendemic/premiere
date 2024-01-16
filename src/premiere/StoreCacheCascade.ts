@@ -1,6 +1,6 @@
 import StoreCache from "./StoreCache";
 import Model from "./Model";
-import PromiseCascade, { PromiseFunction } from "promise-cascade";
+import PromiseCascade, { PromiseFunction } from "./PromiseCascade";
 
 export interface StoreCascadeOptions {
   ignoreCache?: boolean;
