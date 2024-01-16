@@ -2473,10 +2473,6 @@ process@^0.11.0:
   version "0.11.10"
   resolved "https://registry.yarnpkg.com/process/-/process-0.11.10.tgz#7332300e840161bda3e69a1d1d91a7d4bc16f182"
 
-promise-cascade@^0.1.2:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/promise-cascade/-/promise-cascade-0.1.2.tgz#97f203fd204b778e26bf652a8950747715cb0a39"
-
 prr@~0.0.0:
   version "0.0.0"
   resolved "https://registry.yarnpkg.com/prr/-/prr-0.0.0.tgz#1a84b85908325501411853d0081ee3fa86e2926a"
