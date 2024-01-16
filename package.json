@@ -1,6 +1,6 @@
 {
   "name": "@friendemic/premiere",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Javascript ORM for consuming Restful APIs",
   "main": "build/index.js",
   "typings": "./build/index.d.ts",
