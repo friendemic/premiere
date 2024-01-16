@@ -1,6 +1,6 @@
 {
   "name": "@friendemic/premiere",
-  "version": "0.2.7",
+  "version": "1.0.1",
   "description": "Javascript ORM for consuming Restful APIs",
   "main": "build/index.js",
   "typings": "./build/index.d.ts",
@@ -34,8 +34,7 @@
   },
   "homepage": "https://pedsmoreira.github.io/premiere",
   "dependencies": {
-    "axios": "^0.17.1",
-    "promise-cascade": "^0.1.2"
+    "axios": "^0.17.1"
   },
   "devDependencies": {
     "@types/jest": "^20.0.8",
